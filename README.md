@@ -6,4 +6,8 @@ Contato:
 haan2@ecomp.poli.br
 github.com/hugoaaneto
 
-E atualizados por mim.
+Testando integração colab e github
+
+Este é um repositório com o exemplo criado pelo Google Colaboratory.
+
+[Testando_Colab_e_GitHub.ipynb](/Testando_Colab_e_GitHub.ipynb)
